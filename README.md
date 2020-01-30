@@ -1,3 +1,3 @@
 # DataCamp
 
-##DataCamp projects
+DataCamp projects
